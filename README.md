@@ -13,7 +13,7 @@
 ![Security Headers](https://img.shields.io/security-headers?url=https%3A%2F%2Fhugo-toha.github.io%2F)
 [![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/b7cb60ab/hugo-toha.github.io)
 
-A [Hugo](https://gohugo.io/) theme for a personal portfolio with minimalist design and responsiveness.
+A [Hugo](https://gohugo.io/) theme for a personal portfolio with minimalist design and responsiveness (this fork extends it with Bulma CSS).
 
 ![Thumbnail](https://raw.githubusercontent.com/hugo-toha/toha/main/images/screenshot.png)
 
