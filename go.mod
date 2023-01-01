@@ -1,3 +1,3 @@
-module github.com/hugo-toha/toha/v4
+module github.com/sydelcid/tohabulma/v1
 
 go 1.19

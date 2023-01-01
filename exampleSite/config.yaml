@@ -18,7 +18,7 @@ module:
       target: assets
     - source: static
       target: static
-  - path: github.com/hugo-toha/toha/v4
+  - path: github.com/sydelcid/tohabulma/v1
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
